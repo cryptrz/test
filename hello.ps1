@@ -1,1 +1,1 @@
-Write-Output -InputObject "Hello World"
+Write-Host "Hello World" -ForegroundColor "blue" -BackgroundColor "red"
